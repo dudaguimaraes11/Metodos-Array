@@ -1,0 +1,1 @@
+# Utilizando diferentes métodos no Array para resolver problemas no JavaScript 
